@@ -1203,7 +1203,7 @@ footer {
   background-size: contain;
   background-repeat: no-repeat;
   width: auto;
-}
+  }
 }
 
 
@@ -1213,8 +1213,8 @@ footer {
     height: 85vh;
     padding: 36px 100px;
     background-image: url(asset/file3.PNG);
-    background-position: 60px;
-    background-size: 100% 60%;
+    background-position: 42px;
+    background-size: 120% 75%;
     background-repeat: no-repeat;
     width: 100vw;
   }
