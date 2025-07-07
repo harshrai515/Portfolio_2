@@ -492,12 +492,12 @@ footer {
 
   header {
     height: 105vh;
-    padding: 36px 100px;
+    padding: 36px 70px;
     background-image: url(asset/file3.png);
     background-position: 70px;
     background-size: contain;
     background-repeat: no-repeat;
-    width: 120vw;
+    width: 105vw;
   }
 
   header nav{
